@@ -59,5 +59,5 @@ Kullanici Sifresi : test12345
 Projedeki users.htpasswd icerigini degistirin bunu sifreleyip yapmanizi tavsiye ederim. Kolay bir MD5 sifrelemesi icin : 
 https://hostingcanada.org/htpasswd-generator/
 
-# Projeyi yayinlayacaksaniz dikkat
+# Projeyi yayinlayacaksaniz dikkat!
 Bulunan users.htpasswd dosyasi iceriginin izinlerini degistirin! 755 izinini 644 olarak degistirmenizi tavsiye ederim!
