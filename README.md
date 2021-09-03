@@ -64,10 +64,10 @@ Projeyi calistirmak icin :
 ``` npm run proje```
 
 Hata almadiginizdan emin olduktan sonra : http://localhost:3000 üstünde Kayitlari yapabilirsiniz.
-![Giris Ekrani](images/giris.png)
+![Giris Ekrani](img/giris.png)
 
 Kayitlari incelemek icin : http://localhost:3000/registrations addressine gidin. 
-![Tablolar Ekrani](images/tablo.png)
+![Tablolar Ekrani](img/tablo.png)
 
 ### Giris
 Giris sifresini degistirmezseniz standart giris ve sifre bilgisi:
