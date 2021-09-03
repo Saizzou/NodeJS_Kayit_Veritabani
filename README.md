@@ -19,23 +19,37 @@
 ## Yükleme
 Yükleme islemi yada kendiniz tekrar yazabilmeniz icin gereksinimleri tamamlayiniz:
 Temel Gereksinimler:
+
 1- Node! (Cok bariz bir bilgi)
+
 2- Npm!
+
 3- MongoDB
+
 4- MongoDB-Compass (opsiyonel tabii)
 
 NPM yüklemeleri:
+
 1- npm install express
+
 2- npm install --save-dev nodemon
+
 3- npm install pug
+
 4- npm install body-parser (SADECE EXPRESS < = V3 ) 
+
 5- npm install express-validator
+
 6- npm install dotenv
+
 7- npm install mongoose
+
 8- npm install http-auth
 
 Digerleri:
+
 1- Daha güzel htaccess sifreleri icin : https://hostingcanada.org/htpasswd-generator/
+
 2- Bootstrap : https://getbootstrap.com/docs/4.4/getting-started/download/
 
 ## Baslangic
@@ -52,7 +66,9 @@ Hata almadiginizdan emin olduktan sonra : http://localhost:3000 üstünde Kayitl
 
 ### Giris
 Giris sifresini degistirmezseniz standart giris ve sifre bilgisi:
+
 Kullanici Adi: saizzou
+
 Kullanici Sifresi : test12345
 
 ### HTACCESS Bilgilendirme!
