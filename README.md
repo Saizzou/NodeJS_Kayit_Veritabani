@@ -1,7 +1,7 @@
 <h1 align="center">NodeJS MongoDB ile Kayit Sistemi</h1>
 
 <div align="center">
-  <strong>Egitim amacli yapimi kolay bir Veritabani Kayit Sistemi örnegi!</strong>
+  <strong>Egitim amacli yapimi kolay bir Veritabani Kayit Sistemi örnegidir! Dikkat PUG icerir!!! :)</strong>
 </div>
 
 <br />
