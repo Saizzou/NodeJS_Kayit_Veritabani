@@ -1,0 +1,16 @@
+extends layout 
+
+block content 
+    p Kayitli üyeler Listesi:
+    if registrations.length 
+        table.listing-table.table-dark.table-striped
+            tr 
+                th Isim  
+                th Email
+            each registration in registrations 
+                tr 
+                    td= registration.name 
+                    
+                    td= registration.email 
+    else 
+        p Kayitli Üye bulunamadi! 
