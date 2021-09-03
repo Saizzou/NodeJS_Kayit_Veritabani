@@ -16,9 +16,10 @@
 
 <br />
 
-## Yükleme
+# Yükleme
 Yükleme islemi yada kendiniz tekrar yazabilmeniz icin gereksinimleri tamamlayiniz:
-Temel Gereksinimler:
+
+## Temel Gereksinimler:
 
 1- Node! (Cok bariz bir bilgi)
 
@@ -28,7 +29,7 @@ Temel Gereksinimler:
 
 4- MongoDB-Compass (opsiyonel tabii)
 
-NPM yüklemeleri:
+## NPM yüklemeleri:
 
 1- npm install express
 
@@ -46,7 +47,7 @@ NPM yüklemeleri:
 
 8- npm install http-auth
 
-Digerleri:
+## Digerleri:
 
 1- Daha güzel htaccess sifreleri icin : https://hostingcanada.org/htpasswd-generator/
 
@@ -62,7 +63,11 @@ Projeyi init etmeyi unutmayiniz:
 Projeyi calistirmak icin :
 ``` npm run proje```
 
-Hata almadiginizdan emin olduktan sonra : http://localhost:3000 üstünde Kayitlari yapabilirsiniz. Kayitlari incelemek icin : http://localhost:3000/registrations addressine gidin. 
+Hata almadiginizdan emin olduktan sonra : http://localhost:3000 üstünde Kayitlari yapabilirsiniz.
+![Giris Ekrani](images/giris.png)
+
+Kayitlari incelemek icin : http://localhost:3000/registrations addressine gidin. 
+![Tablolar Ekrani](images/tablo.png)
 
 ### Giris
 Giris sifresini degistirmezseniz standart giris ve sifre bilgisi:
@@ -71,7 +76,7 @@ Kullanici Adi: saizzou
 
 Kullanici Sifresi : test12345
 
-### HTACCESS Bilgilendirme!
+### HTACCESS Bilgilendirme
 Projedeki users.htpasswd icerigini degistirin bunu sifreleyip yapmanizi tavsiye ederim. Kolay bir MD5 sifrelemesi icin : 
 https://hostingcanada.org/htpasswd-generator/
 
