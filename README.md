@@ -8,7 +8,7 @@
 
 <div align="center">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Saizzou/NodeJS_Kayit_Veritabani">
-  <a href="https://github.com/Saizzou/NodeJS_Kayit_Veritabaniy/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Saizzou/NodeJS_Kayit_Veritabani"></a>
+  <a href="https://github.com/Saizzou/NodeJS_Kayit_Veritabani/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Saizzou/NodeJS_Kayit_Veritabani"></a>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Saizzou/NodeJS_Kayit_Veritabani">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Saizzou/NodeJS_Kayit_Veritabani">
 </div>
